@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.image {
+  height: 200px;
+}
+.heading-1 {
+  color: white;
+  font-family: 'caveat';
+}
+.heading-2 {
+  color: white;
+  font-family: 'roboto';
+}
+.paragraph {
+  color: white;
+  font-family: 'roboto';
+}
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btn-style {
+  color: white;
+
+  margin-right: 20px;
+  padding: 6px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'roboto';
+  outline: none;
+}
+
+.button1 {
+  background-color: #0b69ff;
+}
+.button2 {
+  background-color: transparent;
+  border: 1px solid white;
+}
